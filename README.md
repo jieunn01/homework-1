@@ -11,7 +11,7 @@ MMED-1054-02 homework 1
 Week 4 Homework1 for MMED-1054, We will be building a 1-page app that describes your team (where you’re from, hobbies etc). Create a simple page with an image and text. Create a Github repo with a detailed ReadMe file; push the project and submit the link.
 
 ## Installation
-https://github.com/jieunn01/homework1-1054-02.git
+https://github.com/jieunn01/homework-1
 
 ## link references 
 1. [link - Markdown collection](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
